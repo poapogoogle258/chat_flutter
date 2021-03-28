@@ -1,4 +1,5 @@
 # chat_flutter
+![GitHub Logo](/images/1.png)
 !!เตื่อน!! ตอนนี้ยัง login และ regis ด้วย email,password ไม่ได้ ได้แค่ login-with gmail เท่านั้น
 <br>final project
  How to run
