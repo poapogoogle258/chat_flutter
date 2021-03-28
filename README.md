@@ -1,6 +1,9 @@
 # chat_flutter
-![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/1.PNG)
 !!เตื่อน!! ตอนนี้ยัง login และ regis ด้วย email,password ไม่ได้ ได้แค่ login-with gmail เท่านั้น
+![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/1.PNG)
+![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/2.PNG)
+![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/3.PNG)
+![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/4.PNG)
 <br>final project
  How to run
 * Clone this repo
