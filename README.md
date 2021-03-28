@@ -1,5 +1,5 @@
 # chat_flutter
-![GitHub Logo](/images/1.png)
+![GitHub Logo](https://github.com/poapogoogle258/chat_flutter/blob/main/images/1.PNG)
 !!เตื่อน!! ตอนนี้ยัง login และ regis ด้วย email,password ไม่ได้ ได้แค่ login-with gmail เท่านั้น
 <br>final project
  How to run
